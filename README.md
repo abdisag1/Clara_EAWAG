@@ -1,4 +1,4 @@
-# Clara plus prototype Readme
+# Clara EAWAG Readme
 
 - This document serves as a guide for understanding the code used in the first prototype for the Wataclara protype. A prototype that is installed in Referal hospital The code is written for an Arduino-System, using C++. It is not following a school of clean C++-Code however, so that it still uses syntax from C for example. Rather than being particularly cleanly written, the development of the code was focused on the usage of widely used syntax, a simple extensibility, conciseness, and simplicity in general.
 Concerning this guide, the focus does not lay on a thorough description of the code to entirely replace the lecture of the code while working on it. The hope however is that it can reduce the study of the relevant parts of the code to a minimum to facilitate especially the extension of the system.
